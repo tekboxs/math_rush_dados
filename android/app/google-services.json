@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920452100916",
+    "project_id": "casa-da-embalagem-6f933",
+    "storage_bucket": "casa-da-embalagem-6f933.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920452100916:android:4cfee6ca0be4166d6e6b61",
+        "android_client_info": {
+          "package_name": "com.cecum.distribuidora_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHsjn0YxCjz6VMqvuV848DwKFsxZz0DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920452100916:android:8fb65764da4f6c016e6b61",
+        "android_client_info": {
+          "package_name": "miguel.math_rush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHsjn0YxCjz6VMqvuV848DwKFsxZz0DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
